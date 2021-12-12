@@ -13,9 +13,23 @@
 
 
 ## Data
-The project's data which is publicly available can be found [here](https://osf.io/p7gc6/).
+- The project's dataset is publicly available on [OSF website](https://osf.io/p7gc6/).
 
 ## Acknowledgement 
 In accordance with the UofA Code of Student Behaviour, we acknowledge that  
 
 - We used Dr. Fyshe Lab's [github repo](https://github.com/fyshelab/NeuralPhraseComposition) as a starting point of our analysis.
+
+## Citations
+This project is based on previous work done by Fyshe Lab.
+
+@article{honari2021neural,
+  title={Neural representation of words within phrases: Temporal evolution of color-adjectives and object-nouns during simple composition},
+  author={Honari-Jahromi, Maryam and Chouinard, Brea and Blanco-Elorrieta, Esti and Pylkk{\"a}nen, Liina and Fyshe, Alona},
+  journal={PloS one},
+  volume={16},
+  number={3},
+  pages={e0242754},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
