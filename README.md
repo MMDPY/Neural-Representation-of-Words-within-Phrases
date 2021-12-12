@@ -21,11 +21,11 @@ In accordance with the UofA Code of Student Behaviour, we acknowledge that
 - We used Dr. Fyshe Lab's [github repo](https://github.com/fyshelab/NeuralPhraseComposition) as a starting point of our analysis.
 
 ## Citations
-This project is based on previous work done by Fyshe Lab.
 
+```bib
 @article{honari2021neural,
   title={Neural representation of words within phrases: Temporal evolution of color-adjectives and object-nouns during simple composition},
-  author={Honari-Jahromi, Maryam and Chouinard, Brea and Blanco-Elorrieta, Esti and Pylkk{\"a}nen, Liina and Fyshe, Alona},
+  author={},
   journal={PloS one},
   volume={16},
   number={3},
@@ -33,3 +33,4 @@ This project is based on previous work done by Fyshe Lab.
   year={2021},
   publisher={Public Library of Science San Francisco, CA USA}
 }
+```
