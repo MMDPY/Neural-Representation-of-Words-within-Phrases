@@ -25,12 +25,11 @@ In accordance with the UofA Code of Student Behaviour, we acknowledge that
 ```bib
 @article{honari2021neural,
   title={Neural representation of words within phrases: Temporal evolution of color-adjectives and object-nouns during simple composition},
-  author={},
+  author={Honari-Jahromi, Maryam and Chouinard, Brea and Blanco-Elorrieta, Esti and Pylkk{\"a}nen, Liina and Fyshe, Alona},
   journal={PloS one},
   volume={16},
   number={3},
   pages={e0242754},
   year={2021},
   publisher={Public Library of Science San Francisco, CA USA}
-}
-```
+}```
