@@ -1,4 +1,4 @@
-# CMPUT 652 - Final Project
+# Neural Representation of Words within Phrases
 
 ## Team
 |Student name| CCID |
